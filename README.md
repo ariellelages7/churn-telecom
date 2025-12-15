@@ -1,4 +1,4 @@
-# Predição de Churn em Telecomunicações
+# Predição de churn em uma empresa de Telecom
 
 Este projeto foi desenvolvido como parte do curso de Cientista de Dados e tem como objetivo prever o churn de clientes em uma empresa de telecomunicações utilizando técnicas de análise de dados e machine learning.
 
